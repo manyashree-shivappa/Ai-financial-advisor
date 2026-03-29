@@ -1,13 +1,6 @@
 financial advisor and expense manager AI agent.ipynb
 
-This project analyzes financial data and provides smart suggestions.
+## 🚀 Run this project
 
-Steps:
-1. Upload data
-2. Analyze spending
-3. Get financial advice
-
-Tools:
-- Python
-- Google Colab
+Click below to open in Google Colab: https://colab.research.google.com/drive/1u18fAeiexrjjQIR9kbs1uDgSWWZZXZIG?usp=sharing
 My ai financial advisor and expense manager 
